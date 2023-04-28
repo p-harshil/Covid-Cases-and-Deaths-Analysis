@@ -18,7 +18,7 @@ The Covid-19 data is reported by CDC and is updated daily online. CDC’s COVID 
 Final_project.sql file for the same)
 
 <p> Here is the snapshot of ER diagram explaining relation between the table attributes and created view. 
-![image](https://user-images.githubusercontent.com/68314057/235025758-ddb14e4b-6662-4f80-9a7b-095cf9cac33a.png)
+<br>![image](https://user-images.githubusercontent.com/68314057/235028267-bc2786a5-c23e-4a4a-900d-e4b664d5188e.png)<br>
 
 
 ### Dependecies:
