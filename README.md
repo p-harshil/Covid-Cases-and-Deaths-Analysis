@@ -23,7 +23,7 @@ Final_project.sql file for the same)
 
 ### Dependecies:
 Microsoft SQL Server
-Tableau Desktop
+<br>Tableau Desktop
 
 ### Visualisation:
 Visualisation is carried out leveraging Tableau Dashboard. 
